@@ -1,0 +1,101 @@
+Rank,TLA,crash_road,side_road,northing,easting,latitude,longitude,minorInjuryCrashes,seriousInjuryCrashes,fatalCrashes,totalInjuryCrashes,minorInjuries,seriousInjuries,fatalities,totalCasualties
+1,Auckland,Glenbrook Road,Kingseat Road,5885015,1760350,-37.16753538,174.8060589,17,4,2,23,40,7,3,50
+2,Taupo District ,SH 1 (Thermal Explorer Highway),Poihipi Road,5715010,1867032,-38.67325256,176.0694107,20,5,0,25,35,6,0,41
+3,Taupo District ,SH 5 (Napier - Taupo Road),Arrowsmith Avenue,5711486,1869261,-38.70428891,176.0963653,15,2,1,18,25,4,1,30
+4,Rotorua District ,SH 30 (Hemo Road),SH 5 (Old Taupo Road),5770782,1884379,-38.16603506,176.2459582,14,3,0,17,20,3,0,23
+5,Napier City ,SH 2 (Main North Road),SH2B (Napier - Hastings Expressway),5623356,1933518,-39.47476686,176.8770886,14,5,1,20,24,7,1,32
+6,Auckland,Waiuku Road,Attewell Road,5878541,1765886,-37.22489519,174.8698208,16,1,2,19,29,2,2,33
+7,Auckland,Great North Road,Bullock Track,5918542,1754254,-36.86647469,174.7305613,35,5,1,41,48,5,1,54
+8,New Plymouth District ,SH 3 (Devon Road),Mangati Road,5678846,1699827,-39.03374371,174.1533783,16,7,0,23,31,12,0,43
+9,Waikato District ,SH 1B (Telephone Road),Holland Road,5819850,1808628,-37.74488555,175.3678949,18,1,1,20,33,1,1,35
+10,Auckland,Tamaki Drive,Ngapipi Road,5919957,1760965,-36.85260541,174.8055181,27,7,0,34,31,7,0,38
+11,Auckland,Dairy Flat Highway,Coatesville - Riverhead Highway,5935924,1748984,-36.71069308,174.6680613,15,5,0,20,22,5,0,27
+12,Auckland,Pukekohe East Road,Mill Road,5881320,1773839,-37.19841075,174.9587705,15,0,1,16,21,0,1,22
+13,South Waikato District ,SH 1,SH 5 (Thermal Explorer Highway),5792236,1843058,-37.98498918,175.7675711,10,10,2,22,26,13,3,42
+14,Christchurch City ,SH 1 (Russley Road),Memorial Avenue,5184311,1563598,-43.4932394,172.5497777,26,4,0,30,34,4,0,38
+15,Upper Hutt City ,SH 2 (River Road),Whakatiki Street,5446138,1771838,-41.11788104,175.0468123,9,8,0,17,15,10,0,25
+16,Auckland,Hibiscus Coast Highway,Silverdale Street,5946088,1749948,-36.61895292,174.6768617,18,2,1,21,30,3,1,34
+17,Marlborough District ,SH 1,Ferry Road,5409656,1680353,-41.46066476,173.962153,12,2,1,15,20,3,1,24
+18,New Plymouth District ,SH 3 (Main North Road),Princess St,5682356,1708284,-39.00111452,174.2505104,17,0,1,18,31,0,1,32
+19,Hastings District ,SH 50 (Napier - Hastings Expressway),SH 50 (Links Road),5613540,1930935,-39.56401103,176.8520043,14,4,1,19,28,5,1,34
+20,Auckland,Te Irirangi Drive,Ormiston Road,5907459,1769327,-36.96374598,174.902062,20,3,0,23,31,4,0,35
+21,Palmerston North City ,SH 3 (Rangitikei Line),SH 54 (Kairanga Bunnythorpe Road),5533644,1818760,-40.31909389,175.5746844,13,5,0,18,18,7,0,25
+22,Hauraki District ,SH 2,SH 25,5871912,1807722,-37.27621876,175.3429102,9,4,2,15,19,5,2,26
+23,Auckland ,SH 1N,Wayby Valley Road,5978422,1738806,-36.32924965,174.5465027,9,3,1,13,23,6,1,30
+24,Hastings District ,SH 2 (Railway Road South),SH 50A Paki Paki Road),5599568,1925321,-39.69177431,176.793658,8,5,0,13,19,6,0,25
+25,Christchurch City ,SH 74 (Main North Road),SH 74 (Queen Elizabeth II Drive),5185299,1568976,-43.48458588,172.6163479,29,6,1,36,40,9,1,50
+26,Christchurch City,Marshland Road,Shirley Road,5182709,1572749,-43.50805366,172.6628754,28,6,0,34,42,6,0,48
+27,Christchurch City,Barrington Street,Lincoln Road,5178543,1568401,-43.54539328,172.6088447,23,5,1,29,34,6,1,41
+28,Dunedin City ,SH 1,Great King Street,4918962,1407197,-45.85591206,170.5164611,24,3,0,27,39,3,0,42
+29,Auckland,Fanshawe Street,Albert Street,5920942,1757400,-36.84433077,174.7653434,29,1,0,30,35,1,0,36
+30,Christchurch City,Linwood Avenue,Aldwins Road,5179867,1573589,-43.53367354,172.6731288,20,11,0,31,25,11,0,36
+31,Christchurch City,Marshland Road,Hawkins Road,5187708,1572355,-43.46302737,172.6582551,5,8,0,13,16,10,0,26
+32,Wellington City ,SH 1 (Inner City Bypass),Victoria Street,5426862,1748338,-41.29606711,174.7717115,21,1,1,23,34,2,1,37
+33,Auckland,Symonds Street,City Road,5919507,1757321,-36.8572738,174.764755,19,5,0,24,19,5,0,24
+34,Palmerston North City ,SH 3 (Rangitikei Street),Featherston Street,5530149,1821348,-40.34986698,175.6063248,29,2,0,31,34,2,0,36
+35,Waipa District ,SH 1 (Achilles Avenue),Shakespeare Street,5802984,1818019,-37.8945706,175.4794701,12,3,2,17,18,4,2,24
+36,Hamilton City ,SH 1 (Cobham Drive),Grey Street,5813528,1802513,-37.80319487,175.300307,16,3,0,19,21,3,0,24
+37,Auckland,Ti Rakau Drive,Pakuranga Highway,5912928,1766663,-36.91494745,174.8709463,26,4,0,30,26,5,0,31
+38,Auckland,Queen Street,Shortland Street,5920716,1757464,-36.84635645,174.7661077,18,3,0,21,20,3,0,23
+39,Horowhenua District ,SH 1 (South Road),SH 57 (Kimberley Road),5497863,1791111,-40.6479802,175.2603111,11,2,0,13,19,2,0,21
+40,Auckland,Ash Street,Rosebank Road,5915590,1750837,-36.89362611,174.6928289,28,2,1,31,37,4,1,42
+41,Auckland,Murphys Road,Flat Bush School Road,5906162,1771125,-36.97510596,174.9225427,7,4,1,12,20,10,1,31
+42,Auckland,Te Irirangi Drive,Smales Road,5909844,1769943,-36.94214732,174.9084417,19,4,0,23,29,5,0,34
+43,Wellington City,Courtenay Place,Taranaki Street,5427247,1748949,-41.29248826,174.7789116,20,7,1,28,22,7,1,30
+44,Auckland,Pakuranga Road,Aviemore Drive,5914774,1769862,-36.89774488,174.9064261,28,3,0,31,34,3,0,37
+45,Auckland,Karangahape Road,Queen Street,5919442,1757025,-36.85790872,174.7614495,26,2,0,28,32,2,0,34
+46,Auckland,Te Atatu Road,Edmonton Road,5918818,1746817,-36.86517312,174.647105,23,2,0,25,32,2,0,34
+47,Waimakariri District ,SH 1 (Main North Road),Williams Street,5199961,1572671,-43.35270942,172.662774,9,5,1,15,20,6,1,27
+48,Auckland ,SH 16 (Kaipara Coast Highway),Kahikatea Flat Road,5945724,1734308,-36.62456609,174.5020816,4,5,0,9,11,5,0,16
+49,Christchurch City,Moorhouse Avenue,Manchester Street,5179156,1570889,-43.53997501,172.6396752,29,2,1,32,39,3,3,45
+50,Dunedin City,Hillside Road,King Edward Street,4914769,1405918,-45.8932562,170.4983096,21,9,1,31,29,18,1,48
+51,Auckland,Porchester Road,Popes Road,5900037,1771345,-37.030248,174.9264053,8,2,1,11,13,2,1,16
+52,Manawatu District ,SH 1,Highway 56,5526231,1796492,-40.39136005,175.3150986,7,3,0,10,22,4,0,26
+53,Dunedin City,George Street,Frederick Street,4917605,1406512,-45.8679222,170.5071002,18,6,0,24,20,6,0,26
+54,Auckland,Fanshawe Street,Halsey Street,5920757,1756610,-36.84612892,174.756525,23,2,1,26,28,2,1,31
+55,Auckland,Swanson Road,Don Buck Road,5919350,1743700,-36.86085864,174.6120481,26,1,0,27,35,1,0,36
+56,Hastings District,Railway Road South,Longlands Road,5602249,1927234,-39.66694087,176.8145915,8,4,0,12,11,4,0,15
+57,Auckland,Kerrs Road,Druces Road,5902954,1767318,-37.00469347,174.8805049,19,4,0,23,35,4,0,39
+58,Hastings District,Pakowhai Road,Ruahapia Road,5609028,1932274,-39.60405603,176.8698155,10,2,1,13,17,5,1,23
+59,Auckland,Ti Rakau Drive,Botany Road,5911305,1770336,-36.92891347,174.9125237,24,5,0,29,37,5,0,42
+60,Far North District ,SH 1,SH 10,6086904,1686917,-35.35737783,173.9566611,6,4,0,10,16,5,0,21
+61,Auckland,Symonds St,Mount St,5919779,1757575,-36.85478066,174.7675466,16,3,0,19,21,3,0,24
+62,Palmerston North City,Kelvin Grove Road,Stoney Creek Road,5533984,1826633,-40.31393537,175.6671313,6,2,0,8,10,2,0,12
+63,Christchurch City,Riccarton Road,Clarence Street,5180294,1567834,-43.52960301,172.6019299,24,4,0,28,26,4,0,30
+64,New Plymouth District ,SH 3 (Devon Road),Raleigh Street,5680782,1705395,-39.01564796,174.2173972,12,1,0,13,19,1,0,20
+65,Auckland,New North Road,Carrington Road,5916612,1752880,-36.88408851,174.7155418,18,5,0,23,24,5,0,29
+66,Auckland,Symonds Street,Wakefield Street,5919614,1757417,-36.8562937,174.7658092,17,4,0,21,20,4,0,24
+67,Far North District ,SH 10,SH 11 (Black Bridge Road),6092884,1687488,-35.3034142,173.9623058,13,1,1,15,28,1,1,30
+68,Napier City,Kennedy Road,Kennedy Off Nbd,5618637,1933348,-39.51725615,176.8774764,21,1,0,22,22,1,0,23
+69,Selwyn District ,SH 1 (Main South Road),Aylesbury Road,5170622,1544698,-43.61533,172.3146395,9,1,0,10,15,1,0,16
+70,Auckland,Mount Albert Road,Dominion Road,5914291,1755173,-36.90462748,174.7417373,30,1,1,32,42,1,1,44
+71,Southland District ,SH 1 (Woodlands Invercargill Highway),Kennington Road,4853176,1250430,-46.38452878,168.4536538,8,4,0,12,25,4,0,29
+72,Auckland,Karangahape Road,Pitt Street,5919468,1756812,-36.85770983,174.7590558,22,3,0,25,25,3,0,28
+73,Auckland,Karangahape Road,Symonds Street,5919382,1757215,-36.85841774,174.7635923,22,3,1,26,28,3,1,32
+74,Christchurch City ,SH 73 (West Coast Road),Buchanans Road,5182214,1557970,-43.51182537,172.4800108,6,4,1,11,11,6,1,18
+75,Horowhenua District ,SH 57 (Arapaepae Road),Queen Street,5499715,1795065,-40.63038485,175.3064661,8,4,1,13,17,5,1,23
+76,Dunedin City,Great King Street,North Road,4919059,1407380,-45.85509102,170.5188549,20,6,0,26,31,6,0,37
+77,Auckland,Great North Road,Swanson Road,5917750,1745063,-36.87506788,174.6276388,27,2,0,29,39,2,0,41
+78,Hamilton City,Bridge Street,Tisdall Street,5814746,1801457,-37.79245911,175.2879824,19,7,0,26,25,8,0,33
+79,Hastings District ,SH 2,Napier Road,5607200,1934180,-39.61974798,176.8928874,11,3,1,15,22,3,1,26
+80,Dunedin City,Princes Street,Rattray Street,4916528,1406128,-45.87749855,170.5017234,18,7,0,25,22,7,0,29
+81,South Waikato District ,SH 1,SH 29,5797126,1834488,-37.94321881,175.6684935,11,2,1,14,16,3,1,20
+82,Auckland,Dairy Flat Highway,Green Road,5939513,1746955,-36.67866811,174.6446635,7,2,0,9,12,2,0,14
+83,Selwyn District ,SH 1 (Main South Road),Dawsons Road,5176729,1556271,-43.56111392,172.4585502,7,3,0,10,13,3,0,16
+84,Christchurch City,Marshland Road,Prestons Road,5186459,1572444,-43.47427689,172.6592921,7,5,0,12,8,5,0,13
+85,Christchurch City ,SH 73 (Brougham Street),Burlington Street,5178319,1571132,-43.54752085,172.6426384,19,3,1,23,24,4,2,30
+86,Wellington City,Ghuznee Street,Cuba Street,5427166,1748681,-41.29326695,174.7757321,13,3,0,16,14,3,0,17
+87,Christchurch City,Riccarton Road,Ilam Road,5180095,1566054,-43.53131599,172.5798896,18,2,0,20,20,2,0,22
+88,Nelson City,Waimea Road,Motueka St,5429138,1622796,-41.28887977,173.2722453,23,2,0,25,27,2,0,29
+89,Western Bay Of Plenty District ,SH 2 (Tauranga East Road),Welcome Bay Road,5819854,1889502,-37.72285259,176.2846089,7,2,1,10,12,3,1,16
+90,Hamilton City ,SH 1 (Cobham Drive),SH 1 (Normandy Avenue),5813454,1801471,-37.80409178,175.2885004,16,2,0,18,25,2,0,27
+91,Selwyn District,Shands Road,Blakes Road,5175774,1559460,-43.56989277,172.4979633,7,2,1,10,10,3,1,14
+92,Selwyn District,Jones Road,Curraghs Road,5176197,1555032,-43.56583024,172.4431656,6,1,0,7,12,1,0,13
+93,Christchurch City,Shands Road,Marshs Road,5176578,1560009,-43.56268332,172.504821,3,3,1,7,9,4,1,14
+94,Hamilton City ,SH 1 (Kahikatea Drive),SH 1 (Lorne Street),5813022,1800737,-37.80814403,175.2802887,24,4,0,28,32,4,0,36
+95,Palmerston North City,Longburn Rongotea Road,No 1 Line,5528540,1816675,-40.36557491,175.5518998,4,4,1,9,9,6,2,17
+96,Auckland,Victoria Street West,Hobson Street,5920542,1757065,-36.84799065,174.7616705,18,5,0,23,23,5,0,28
+97,Hamilton City,Victoria Street,Boundary Street,5816430,1800299,-37.77754744,175.2743753,25,5,0,30,37,5,0,42
+98,Christchurch City,Moorhouse Avenue,Gasson Street,5179156,1571132,-43.53998445,172.6426829,15,6,1,22,22,8,1,31
+99,Christchurch City,Gasson Street,Byron Street,5178871,1571130,-43.54255053,172.642643,11,4,1,16,17,4,1,22
+100,Auckland ,SH 20A (George Bolt Memorial Drive),Kirkbride Road,5906538,1759281,-36.97379812,174.7894605,25,5,1,31,38,6,1,45
