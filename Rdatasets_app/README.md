@@ -5,3 +5,5 @@ return all the datasets that have come with the packages you have downloaded.
 
 The datasets and their locations on your machine are then displayed using Shiny and the DT package in 
 R ([a wrapper for the datatables js library](https://datatables.net/)).
+
+A live version of this app can be found [here](https://conrad.shinyapps.io/Rdatasets_app/).
